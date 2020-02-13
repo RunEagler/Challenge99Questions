@@ -1,0 +1,9 @@
+.stack-work/
+Challenge99Questions.cabal
+*~
+
+
+*.hi
+*.o
+*.exe
+*.iml
